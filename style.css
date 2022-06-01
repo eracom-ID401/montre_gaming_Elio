@@ -17,6 +17,8 @@ header{
     color: rgb(47, 255, 64);
 }
 
+
+
 .menu {
     flex-direction:row;
     display: flex;
@@ -55,6 +57,17 @@ header{
     font-weight: bold;
     margin-top: 20%;
     color: rgb(255, 0, 221);
+}
+
+.slogan {
+    position: relative;
+    margin-left: 10%;
+    margin-right: 40%;
+    margin-top: 20%;
+    font-weight: 400;
+    font-size: 2rem;
+   
+
 }
 
 img{
