@@ -116,3 +116,9 @@ img{
     min-width: 2rem;
 
 }
+
+.information{
+    display: flex;
+    justify-content: center;
+}
+
