@@ -1,69 +1,70 @@
-
-body{
+body {
     font-family: 'Nova Square', cursive;
 
-margin-top: 5%;
-background-image: linear-gradient(to bottom right, rgb(179, 250, 151), rgb(255, 136, 255));
-background-size: 100%;
+    margin-top: 5%;
+    background-image: linear-gradient(to bottom right, rgb(179, 250, 151), rgb(255, 136, 255));
+    background-size: 100%;
 }
-header{
+
+header {
     position: relative;
     align-items: center;
     margin-left: 10%;
 }
 
-img{
+img {
     flex-direction: column-reverse;
     width: 50%;
     margin-bottom: 30%;
-   
-   
-   
-    
+    margin-right: 25%;
+
+
+
 }
 
 .logo {
-    flex-direction:row;
+    flex-direction: row;
     display: flex;
     position: relative;
     margin-top: -10%;
     margin-left: 20%;
     font-size: 4rem;
-    background: -webkit-linear-gradient( rgb(255, 136, 255),  rgb(247, 0, 247));
+    background: -webkit-linear-gradient(rgb(255, 136, 255), rgb(247, 0, 247));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    
-    
+
+
 }
 
 
 
 .menu {
-    flex-direction:row;
+    flex-direction: row;
     display: flex;
     font-style: italic;
     font-weight: 200;
     font-size: 3rem;
     margin-left: 80%;
     margin-right: 5%;
-   white-space: nowrap;
-   flex-wrap: wrap;
- 
+    white-space: nowrap;
+    flex-wrap: wrap;
+
 
 }
+
 .menu a {
     display: block;
     margin-left: 5px;
-    
-   
+
+
 }
 
-.img1{
+.img1 {
     width: 40%;
     margin-left: 30%;
     position: absolute;
     transform: rotate(40deg);
-   
+
 }
 
 .img {
@@ -71,7 +72,7 @@ img{
     flex-shrink: 1;
 }
 
-.accroche{
+.accroche {
     position: relative;
     margin-left: 10%;
     margin-right: 10%;
@@ -80,11 +81,11 @@ img{
     margin-top: 20%;
     color: rgb(247, 0, 247);
     text-shadow: -1px 1px 2px #000,
-				  1px 1px 2px #000,
-				  1px -1px 0 #000,
-				  -1px -1px 0 #000;
-   
-    
+        1px 1px 2px #000,
+        1px -1px 0 #000,
+        -1px -1px 0 #000;
+
+
 }
 
 .slogan {
@@ -94,66 +95,69 @@ img{
     margin-top: 20%;
     font-weight: 400;
     font-size: 2rem;
-   
+
 
 }
 
-img{
+img {
     flex-direction: column-reverse;
     width: 50%;
     margin-bottom: 30%;
-   
-   
-   
-    
+
+
+
+
 }
 
 .img {
     width: 15em;
     text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 
-.produit1{
+.produit1 {
     margin-top: 10%;
-    flex-direction:row;
+    flex-direction: row;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    
+
+
 
 
 }
 
 
 
-.nom{
+.nom {
     font-weight: bold;
     font-size: 2rem;
     font-weight: 300;
 }
 
-.prix{
+.prix {
     font-weight: lighter;
-   font-size: 2rem;
-   margin-top: -15%;
+    font-size: 2rem;
+    margin-top: -15%;
 
-    
+
 
 }
 
 
-.info{
-    
+.info {
+
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    
+
 }
 
-.spacer{
-   
+.spacer {
+
     width: 2rem;
     min-width: 2rem;
 
@@ -162,18 +166,22 @@ img{
 .space {
     height: 15rem;
 }
-.information{
+
+.information {
     display: flex;
     justify-content: center;
+
+
 }
 
 .copyright{
-    width:3%;
- justify-content: center;
+    width: 3%;
+    justify-content: center;
     position: absolute;
     margin-top: 10%;
 
 }
+
 
 
 
