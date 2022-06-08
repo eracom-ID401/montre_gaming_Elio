@@ -80,14 +80,18 @@ img{
     
 }
 
-
+.img {
+    width: 15em;
+    text-align: center;
+}
 
 
 .produit1{
     margin-top: 25%;
     flex-direction:row;
     display: flex;
-   margin-left: 15%;
+    justify-content: center;
+    flex-wrap: wrap;
     
 
 
