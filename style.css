@@ -98,7 +98,6 @@ img{
 
 }
 
-<<<<<<< Updated upstream
 img{
     flex-direction: column-reverse;
     width: 50%;
@@ -114,23 +113,15 @@ img{
     text-align: center;
 }
 
-=======
->>>>>>> Stashed changes
 
 .produit1{
     margin-top: 10%;
     flex-direction:row;
     display: flex;
-<<<<<<< Updated upstream
     justify-content: center;
     flex-wrap: wrap;
     
 
-=======
-   margin-left: auto;
-margin-right: auto;
-margin-left: 15%;
->>>>>>> Stashed changes
 
 }
 
