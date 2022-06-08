@@ -167,5 +167,13 @@ img{
     justify-content: center;
 }
 
+.copyright{
+    width:3%;
+ justify-content: center;
+    position: absolute;
+    margin-top: 10%;
+
+}
+
 
 
